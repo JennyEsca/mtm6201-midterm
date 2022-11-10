@@ -1,4 +1,4 @@
-body {
+body{
     background-color: antiquewhite;
 }
 
@@ -198,6 +198,16 @@ form input, form textarea {
   h1{ 
     text-align: center;
   }
+
+  /* .contact-section h3 {
+    text-align: center;
+ }
+
+ .contact-section {
+    text-align: center;
+ } */
+
+ 
 
 
 /* .img1 {
